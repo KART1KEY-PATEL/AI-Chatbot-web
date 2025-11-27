@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "name": "Code Review",
+        "prompt": "Please review the following code and provide suggestions for improvement:\n\n",
+        "category": "Development"
+    },
+    {
+        "id": "2",
+        "name": "Explain Concept",
+        "prompt": "Explain the following concept in simple terms:\n\n",
+        "category": "Learning"
+    },
+    {
+        "id": "3",
+        "name": "Debug Help",
+        "prompt": "I'm encountering the following error. Can you help me debug it?\n\nError: ",
+        "category": "Development"
+    },
+    {
+        "id": "4",
+        "name": "Write Documentation",
+        "prompt": "Write clear and comprehensive documentation for the following code:\n\n",
+        "category": "Development"
+    },
+    {
+        "id": "5",
+        "name": "Brainstorm Ideas",
+        "prompt": "Help me brainstorm creative ideas for:\n\n",
+        "category": "Creative"
+    },
+    {
+        "id": "6",
+        "name": "Summarize Text",
+        "prompt": "Please provide a concise summary of the following text:\n\n",
+        "category": "Productivity"
+    },
+    {
+        "id": "7",
+        "name": "Translate Code",
+        "prompt": "Translate the following code from [source language] to [target language]:\n\n",
+        "category": "Development"
+    },
+    {
+        "id": "8",
+        "name": "Write Tests",
+        "prompt": "Write comprehensive unit tests for the following code:\n\n",
+        "category": "Development"
+    }
+]
